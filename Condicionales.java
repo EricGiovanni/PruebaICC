@@ -35,53 +35,5 @@ public class Condicionales {
         }
         System.out.print("]");
 
-
-        // condicion tiene que ser de tipo boolean
-        /*if(sonIguales) {
-            System.out.println(nombre1);
-        } else if(sonIguales2) { // else if(nombre2 == "Jose") {}
-            System.out.println(nombre2);
-        } else {
-            System.out.println("Las 2 condiciones anteriores no se cumplieron");
-        }
-        if(sonIguales) {
-            System.out.println(nombre1);
-        }
-        if(sonIguales2) {
-            System.out.println(nombre2);
-        }
-        System.out.println("Las 2 condiciones anteriores no se cumplieron");
-
-        System.out.println("Afuera de los condicionales");
-        */
-        /* if(condicion) {
-               // Lo que hago si la condición se cumple
-           }
-         */
-        /* if(condicion) {
-               // Lo que hago si la condición se cumple
-           } else {
-               // Lo que hago si la condición no se cumple
-           }
-         */
-
-        /* if(condicion) {
-               // Lo que hago si la condición se cumple
-           } else if(condicion2) {
-               // Lo que hago si la condición 2 se cumple
-           } else {
-               // Lo que hago si la condición y condición2 no se cumplen
-           }
-         */
-
-
-
-
-        // "Hola" == "Hola1" -> false
-        /*if(nombre1 == "Juan2") { // if(x == 7) { System.out.println(x) }
-            System.out.println(nombre1);
-        } else {
-            System.out.println("El valor del nombre 1 no es Juan");
-            }*/
     }
 }
